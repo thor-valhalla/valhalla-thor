@@ -1,42 +1,42 @@
 # INDICE
-* 1. Resumen & Revisión de Negocio		03	
-** 1.1 Resumen
-** 1.2 Revisión de negocio
-* 2. Deslinde de responsabilidades		04
-* 3. El mundo de las criptomonedas		06
-** 3.1 Resumen 2017
-** 3.2 Manipulación de los mercados financieros
-** 3.3 Ventajas de inversión en las criptomonedas
-** 3.4 Blockchain & THOR
-** 3.5 Funcionamiento del Mercado
-** 3.6 Conclusión & Futuro
-* 4. El crecimiento de las criptomonedas	09
-* 5. Plataforma de aprendizaje			10
-* 6. Oferta de Tokens				12
-* 7. Gastar THOR en el mundo real		13
-* 8. Holders & Comunidad				14
-* 9. Bases, Objetivos & Planes			15
-** 9.1 Bases del proyecto
-** 9.2 Objetivos y planes
-* 10. Red Ethereum					16
-** 10.1 Contratos inteligentes
-** 10.2 Red Ethereum
-* 11. Globalizando la descentralización		20
-** 11.1 Ideología
-** 11.2 Futuro
-* 12. Interés económico				21
-* 13. Elementos diferenciales			22
-* 14. Plataforma educativa				23
-** 14.1 Breve definición
-** 14.2 Objetivos
-** 14.3 I+D
-** 14.4 Estructura
-* 15. Tarjetas de Pago				26
-** 15.1 Propósito
-** 15.2 Objetivo
-* 16. Holders & Community			27
-* 17. Distribución de Tokens			28
-* 18. Contacto & Difusión 				29
+* 1. Resumen & Revisión de Negocio
+ * 1.1 Resumen
+ * 1.2 Revisión de negocio
+* 2. Deslinde de responsabilidades
+* 3. El mundo de las criptomonedas
+ * 3.1 Resumen 2017
+ * 3.2 Manipulación de los mercados financieros
+ * 3.3 Ventajas de inversión en las criptomonedas
+ * 3.4 Blockchain & THOR
+ * 3.5 Funcionamiento del Mercado
+ * 3.6 Conclusión & Futuro
+* 4. El crecimiento de las criptomonedas
+* 5. Plataforma de aprendizaje
+* 6. Oferta de Tokens
+* 7. Gastar THOR en el mundo real
+* 8. Holders & Comunidad
+* 9. Bases, Objetivos & Planes
+ * 9.1 Bases del proyecto
+ * 9.2 Objetivos y planes
+* 10. Red Ethereum
+ * 10.1 Contratos inteligentes
+ * 10.2 Red Ethereum
+* 11. Globalizando la descentralización
+ * 11.1 Ideología
+ * 11.2 Futuro
+* 12. Interés económico
+* 13. Elementos diferenciales	
+* 14. Plataforma educativa
+ * 14.1 Breve definición
+ * 14.2 Objetivos
+ * 14.3 I+D
+ * 14.4 Estructura
+* 15. Tarjetas de Pago
+ * 15.1 Propósito
+ * 15.2 Objetivo
+* 16. Holders & Community
+* 17. Distribución de Tokens
+* 18. Contacto & Difusión
 
 # ABSTRACT
 ## THOR
@@ -77,14 +77,14 @@ Nuestra visión a corto medio y largo plazo es crear una comunidad con diferente
  
 # Background
 * Conocimiento mercados financieros
-** Casi 6 años de experiencia en CFD’s, forex y futuros
-** Casi 2 años de experiencia en análisis e inversiones en cryptomonedas
+ * Casi 6 años de experiencia en CFD’s, forex y futuros
+ * Casi 2 años de experiencia en análisis e inversiones en cryptomonedas
 * Conocimiento Criptomonedas
-** Asesorando
-** Creando Portfolios de Inversión
-** Últimas noticias y novedades
-** Búsqueda y análisis de ICO’s
-** Formación en cryptomonedas
+ * Asesorando
+ * Creando Portfolios de Inversión
+ * Últimas noticias y novedades
+ * Búsqueda y análisis de ICO’s
+ * Formación en cryptomonedas
 
 # Red Ethereum
 ## Smart Contracts
