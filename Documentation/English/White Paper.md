@@ -2,7 +2,7 @@
 
 * 1. Summary & Business Review
     * 1. Summary
-    * 2- Business review
+    * 2. Business review
 * 2. Demarcation of responsibilities
 * 3. The world of cryptocurrencies
     * 1. Summary 2017
