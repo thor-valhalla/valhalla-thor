@@ -1,40 +1,40 @@
 # TABLE OF CONTENTS
 
 * 1. Summary & Business Review
- * 1.1 Summary
- * 1.2 Business review
+    * 1. Summary
+    * 2- Business review
 * 2. Demarcation of responsibilities
 * 3. The world of cryptocurrencies
- * 3.1 Summary 2017
- * 3.2 Manipulation of financial markets
- * 3.3 Advantages of investment in cryptocurrencies
- * 3.4 Blockchain & THOR
- * 3.5 Operation of the Market
- * 3.6 Conclusion & Future
+    * 1. Summary 2017
+    * 2. Manipulation of financial markets
+    * 3. Advantages of investment in cryptocurrencies
+    * 4. Blockchain & THOR
+    * 5. Operation of the Market
+    * 6. Conclusion & Future
 * 4. The growth of cryptocurrencies 
 * 5. Learning platform
 * 6. Offer of Tokens
 * 7. Spending THOR in the real world
 * 8. Holders & Community
 * 9. Bases, Objectives & Plans 
- * 9.1 Basis of the project
- * 9.2 Objectives and plans
+    * 1. Basis of the project
+    * 2. Objectives and plans
 * 10. Ethereum Network 16
- * 10.1 Smart contracts
- * 10.2 Ethereum Network
+    * 1. Smart contracts
+    * 2. Ethereum Network
 * 11. Globalizing decentralization
- * 11.1 Ideology
- * 11.2 Future
+    * 1. Ideology
+    * 2. Future
 * 12. Economic interest 
 * 13. Differential elements 
 * 14. Educational platform 
- * 14.1 Brief definition
- * 14.2 Objectives
- * 14.3 R & D
- * 14.4 Structure
+    * 1. Brief definition
+    * 2. Objectives
+    * 3. R & D
+    * 4. Structure
 * 15. Payment Cards  
- * 15.1 Purpose
- * 15.2 Objective
+    * 1. Purpose
+    * 2. Objective
 * 16. Holders & Community
 * 17. Distribution of Tokens
 * 18. Contact & Dissemination 
